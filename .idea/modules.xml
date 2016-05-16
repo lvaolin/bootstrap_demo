@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/bootstrap_login/bootstrap_login.iml" filepath="$PROJECT_DIR$/bootstrap_login/bootstrap_login.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bootstrap_web/bootstrap_web.iml" filepath="$PROJECT_DIR$/bootstrap_web/bootstrap_web.iml" />
     </modules>
   </component>
 </project>
